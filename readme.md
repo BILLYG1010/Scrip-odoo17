@@ -1,4 +1,4 @@
-# Instalación de Odoo
+# Instalación de Odoo 17 en ubuntu 24.04
 
 Siga estos pasos para instalar Odoo en su sistema:
 
