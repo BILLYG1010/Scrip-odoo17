@@ -1,4 +1,4 @@
-# Instalación de Odoo
+# Instalación de Odoo 17 en Ubuntu 22.04
 
 Siga estos pasos para instalar Odoo en su sistema:
 
